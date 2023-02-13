@@ -1,4 +1,4 @@
-## Project 1 
+## Cloud Continuous Delivery of Microservice (MLOps or Data Engineering Focused)
 
 # Overview
 In this Rust project, you are able to fetch information of a certain city's weather with the city name passed in in the url using Actix-web. It will get the data through API of Openweathermap, and returns the degree in celsius for users.
